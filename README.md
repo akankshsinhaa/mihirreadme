@@ -12,5 +12,5 @@ I am Mihir Konduskar, an web development enthusiast. I love making new stuff and
 
 ### 🔧 My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,,nodejs,php,docker,git&perline=8)](https://matejbaco.eu/)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,docker,git&perline=8)]
 
